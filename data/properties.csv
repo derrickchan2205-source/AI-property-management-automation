@@ -1,0 +1,11 @@
+﻿property_id,district,property_type,price,area_sqft,bedrooms,available
+"
+P001",Sha Tin,Apartment,5800000,520,2,TRUE
+"
+P002",Sha Tin,Apartment,7200000,650,3,TRUE
+"
+P003",Kowloon Tong,House,15000000,1200,4,TRUE
+"
+P004",Sha Tin,Apartment,6300000,580,2,FALSE
+"
+P005",Mong Kok,Apartment,4900000,430,1,TRUE

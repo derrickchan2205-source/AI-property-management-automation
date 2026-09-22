@@ -1,0 +1,9 @@
+﻿request_id,customer_name,preferred_district,max_budget,min_area_sqft,min_bedrooms
+"
+R001",Alex Chan,Sha Tin,6500000,500,2
+"
+R002",Jamie Wong,Sha Tin,8000000,600,3
+"
+R003",Chris Lee,Kowloon Tong,16000000,1000,4
+"
+R004",Invalid Example,Sha Tin,-5000000,500,2
